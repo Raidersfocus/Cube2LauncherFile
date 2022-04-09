@@ -17,7 +17,8 @@
         ["PlayerTrade-1.18.1-1.0", "https://media.forgecdn.net/files/3605/115/PlayerTrade-1.18.1-1.0.jar"],
         ["supermartijn642configlib-1.0.9-mc1.18", "https://media.forgecdn.net/files/3542/143/supermartijn642configlib-1.0.9-mc1.18.jar"],
         ["supermartijn642corelib-1.0.16b-mc1.18", "https://media.forgecdn.net/files/3649/270/supermartijn642corelib-1.0.16b-mc1.18.jar"],
-        ["TerraBlender-forge-1.18.1-1.1.0.77", "https://media.forgecdn.net/files/3651/452/TerraBlender-forge-1.18.1-1.1.0.77.jar"]
+        ["TerraBlender-forge-1.18.1-1.1.0.77", "https://media.forgecdn.net/files/3651/452/TerraBlender-forge-1.18.1-1.1.0.77.jar"],
+        ["OptiFine_1.18.1_HD_U_H6_MOD", "https://github.com/Raidersfocus/Cube2LauncherFile/raw/main/OptiFine_1.18.1_HD_U_H6_MOD.jar"],
           ],
  "ip" : "play.cube2.ch"
 }
